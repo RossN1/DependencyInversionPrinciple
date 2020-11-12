@@ -1,0 +1,13 @@
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.exe
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.deps.json
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.runtimeconfig.json
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.runtimeconfig.dev.json
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.dll
+C:\Users\rossn\Documents\OOP2020\week7\bin\Debug\netcoreapp3.1\week7.pdb
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.csprojAssemblyReference.cache
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.AssemblyInfoInputs.cache
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.AssemblyInfo.cs
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.csproj.CoreCompileInputs.cache
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.dll
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.pdb
+C:\Users\rossn\Documents\OOP2020\week7\obj\Debug\netcoreapp3.1\week7.genruntimeconfig.cache
